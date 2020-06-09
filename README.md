@@ -11,11 +11,7 @@ Data science projects
 
 
 ## Welcome!
-<p align="center">
-  <a href="https://github.com/KiaKafaei1/data_science_portfolio">
-    <img alt="DataScience" title="DataScience" src="https://www.flickr.com/photos/david_jones/36140676161"
-  </a>
-</p>
+![image](https://github.com/KiaKafaei1/Data_Science_Portfolio/blob/master/quote_datascience.jpg)
 
 
 
