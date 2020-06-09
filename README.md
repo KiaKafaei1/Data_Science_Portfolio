@@ -1,4 +1,5 @@
 # data_science_portfolio
+
 Data science projects
 <h1 align="center"> Data Science Projects Portfolio - Kia Kafaei </h1> <br>
 <p align="center">
@@ -8,9 +9,8 @@ Data science projects
 </p>
 
 
-## Welcome!
 
-![image](https://github.com/KiaKafaei1/data_science_portfolio/blob/master/DataScienceDisciplines.png)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
