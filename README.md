@@ -3,7 +3,7 @@ Data science projects
 <h1 align="center"> Data Science Projects Portfolio - Kia Kafaei </h1> <br>
 <p align="center">
   <a href="https://github.com/KiaKafaei1/data_science_portfolio">
-    <img alt="DataScience" title="DataScience" src="https://upload.wikimedia.org/wikipedia/commons/4/44/DataScienceDisciplines.png" width="800" height="400"
+    <img alt="DataScience" title="DataScience" src="https://upload.wikimedia.org/wikipedia/commons/4/44/DataScienceDisciplines.png" width="400" height="400"
   </a>
 </p>
 
