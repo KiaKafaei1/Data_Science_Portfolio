@@ -10,7 +10,7 @@ Data science projects
 
 ## Welcome!
 
-![image](https://github.com/Peymankor/Data-Science_Portfolio/blob/master/cover.jpg)
+![image](https://github.com/KiaKafaei1/Data_Science_Portfolio/blob/master/DataScienceDisciplines.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
