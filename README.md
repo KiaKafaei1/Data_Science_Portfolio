@@ -2,15 +2,15 @@
 Data science projects
 <h1 align="center"> Data Science Projects Portfolio - Kia Kafaei </h1> <br>
 <p align="center">
-  <a href="https://github.com/KiaKafaei1/Data_Science_Portfolio">
-    <img alt="DataScience" title="DataScience" src="https://commons.wikimedia.org/wiki/File:DataScienceDisciplines.png" width="800" height="400">
+  <a href="https://github.com/KiaKafaei1/data_science_portfolio">
+    <img alt="DataScience" title="DataScience" src="https://commons.wikimedia.org/wiki/File:DataScienceDisciplines.png" width="800" height="400"
   </a>
 </p>
 
 
 ## Welcome!
 
-![image](https://github.com/KiaKafaei1/Data_Science_Portfolio/blob/master/DataScienceDisciplines.png)
+![image](https://github.com/KiaKafaei1/data_science_portfolio/blob/master/DataScienceDisciplines.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
