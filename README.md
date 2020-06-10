@@ -9,10 +9,10 @@
 </p>
 
 
-<!-- foo bar -->
+<!-- 
 ## Welcome!
 ![image](https://github.com/KiaKafaei1/Data_Science_Portfolio/blob/master/quote_datascience.jpg)
-
+-->
 
 
 ## Table of Contents
