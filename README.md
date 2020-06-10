@@ -18,7 +18,7 @@ Data science projects
 ## Table of Contents
 - [Introduction](#introduction)
 
-- [Yelp Business Dataset](https://github.com/Peymankor/Data_Science_Portfolio/blob/master/Yelp_Business_Dataset/Business_analysis_of_Yelp.ipynb)
+- [Yelp Business Dataset](https://github.com/KiaKafaei1/Data_Science_Portfolio/blob/master/Yelp_Business_Dataset/Business_analysis_of_Yelp.ipynb)
 - [Customer Data Processing](https://github.com/Peymankor/Data-Science_Portfolio/blob/master/costumer_database/Customer_Database.ipynb)
 
 ## Introduction
