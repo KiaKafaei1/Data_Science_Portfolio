@@ -18,21 +18,8 @@ Data science projects
 ## Table of Contents
 - [Introduction](#introduction)
 
+- [Yelp Business Dataset]
 - [Customer Data Processing](https://github.com/Peymankor/Data-Science_Portfolio/blob/master/costumer_database/Customer_Database.ipynb)
-- [DataBase Management for Costumer Purchases](https://github.com/Peymankor/Data-Science_Portfolio/blob/master/DataBase/DataBase.ipynb)
-- [Coronavirus Analysis](https://github.com/Peymankor/Data-Science_Portfolio/blob/master/Crono_Virus/crona_rmk.md)
-- [Probabilistic Modeling](https://github.com/Peymankor/Data-Science_Portfolio/blob/master/Crono_Virus/crona_rmk.md)
-- [General Linear Model (GLM) for Atmospheric CO2](https://github.com/Peymankor/Data-Science_Portfolio/blob/master/Least%20Square%20Trend%20Modeling/Project%231.Rmd)
-- [ARIMA model atmospheric CO2](https://github.com/Peymankor/Data-Science_Portfolio/blob/master/Seasonal%20ARIMA%20Modeling/medium_post.md)
-- [Kalman Filter](https://github.com/Peymankor/Data-Science_Portfolio/tree/master/Time%20Series%20Analysis/Project%20%23%204)
-- [The UN Refugee Council Project](https://github.com/Peymankor/Data-Science_Portfolio/blob/master/UNHCR%20Report/Report.md)
-- [New York City Bike Trips](https://github.com/Peymankor/Data-Science_Portfolio/blob/master/New_York_City_Bike_Trips/unacastanalysis.md)
-- [Bayesian Neural Network](https://github.com/Peymankor/Data-Science_Portfolio/blob/master/BNN-Project/Deep_Learning_Project.pdf)
-- [Leaf Classification](https://github.com/Peymankor/Data-Science_Portfolio/blob/master/Pytorch/6.1-EXE-Kaggle-Leaf-Challenge.ipynb)
-- [XGBoost Statistical Model](https://github.com/Peymankor/Data-Science_Portfolio/blob/master/XGBOOST_Machine_Learning/xgboost.md)
-- [Amazon Web Service (S3 and Retrieval)](https://github.com/Peymankor/Data-Science_Portfolio/blob/master/XGBOOST_Machine_Learning/xgboost.md)
-- [Google Cloud Platform](https://github.com/Peymankor/Data-Science_Portfolio/blob/master/XGBOOST_Machine_Learning/xgboost.md)
-- [Racing Bar Plot](https://github.com/Peymankor/Data-Science_Portfolio/blob/master/Racing_Bar_Plot/NPDdata_anim_22_1.gif)
 
 ## Introduction
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/KevinLiao159/MyDataSciencePortfolio)
