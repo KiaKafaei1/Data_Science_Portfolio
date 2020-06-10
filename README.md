@@ -1,6 +1,6 @@
 
 
-Data science projects
+
 <h1 align="center"> Data Science Projects Portfolio - Kia Kafaei </h1> <br>
 <p align="center">
   <a href="https://github.com/KiaKafaei1/data_science_portfolio">
