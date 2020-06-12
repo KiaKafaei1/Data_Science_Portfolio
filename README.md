@@ -47,3 +47,5 @@ Methods used:
 - Different visualization methods 
 - Topic Modelling
 - Different Machine Learning methods - Logistic Regression, Linear Regression and Random Forest.
+- Chi squared significance test
+- Feature importance analysis
