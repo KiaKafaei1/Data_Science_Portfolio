@@ -33,7 +33,7 @@ Welcome to my data science project portfolio. In this repo, you can find my work
 
 ## Yelp Business Dataset
 <p align="center">
-  <a href="https://github.com/KiaKafaei1/data_science_portfolio">
+  <a href="https://github.com/KiaKafaei1/data_science_portfolio/Yelp_Business_Dataset">
     <img alt="DataScience" title="DataScience" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Yelp_Logo.svg"
   </a>
 </p>
