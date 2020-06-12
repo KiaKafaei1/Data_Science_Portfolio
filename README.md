@@ -70,4 +70,4 @@ Models and Methods Used:
 - PGM (Probability graphical models) and Generative Stories
 - Autoregressive models
 - Multiple correlated Timeseries models
-- Imputation method
+- Imputation
