@@ -32,6 +32,12 @@ Welcome to my data science project portfolio. In this repo, you can find my work
 
 
 ## Yelp Business Dataset
+<p align="center">
+  <a href="https://github.com/KiaKafaei1/data_science_portfolio">
+    <img alt="DataScience" title="DataScience" src="https://www.flickr.com/photos/yelp/5540543936/"
+  </a>
+</p>
+
 In the yelp Business data set a lot of insight can be gained about different businesses
 in different cities. In this notebook the focus was set on the city of Charlotte in the
 state of North Carolina, US and what potential investors may want to look for when
