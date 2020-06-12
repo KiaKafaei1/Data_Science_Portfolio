@@ -49,3 +49,19 @@ Methods used:
 - Different Machine Learning methods - Logistic Regression, Linear Regression and Random Forest.
 - Chi squared significance test
 - Feature importance analysis
+
+## Predicting Mackerels
+This project was made in collaboration with 2 colleagues; Frederik Bjare and Stanley Frederiksen.
+
+The goal of this project is to make predictions on how many Mackerels will be caught
+in the future - within various time intervals and different subareas of EU waters -
+based on the Fishmap-dataset. This could be useful for the fishing industry in able
+to tell where the likelihood of catching most mackerels would be.
+
+
+
+Models and Methods Used:
+- PGM (Probability graphical models) and Generative Stories
+- Autoregressive models
+- Multiple correlated Timeseries models
+- Imputation method
