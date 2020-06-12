@@ -58,7 +58,10 @@ in the future - within various time intervals and different subareas of EU water
 based on the Fishmap-dataset. This could be useful for the fishing industry in able
 to tell where the likelihood of catching most mackerels would be.
 
+![image](https://github.com/KiaKafaei1/Data_Science_Portfolio/blob/master/Predicting_Mackerels/Map_of_Mackerels.PNG)
 
+Results
+![image](https://github.com/KiaKafaei1/Data_Science_Portfolio/blob/master/Predicting_Mackerels/Result_Table.PNG)
 
 Models and Methods Used:
 - PGM (Probability graphical models) and Generative Stories
