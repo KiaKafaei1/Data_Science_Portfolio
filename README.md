@@ -38,7 +38,7 @@ state of North Carolina, US and what potential investors may want to look for wh
 investing in a business in Charlotte.
 
 A Comprehensive Descriptive analysis was performed on the businesses of Charlotte, investigating specifically
-the differences between open businesses and businesses that has had to close down. Answering the question: What insights can be drawn 
+the differences between open businesses and businesses that has had to close shop. Answering the question: What insights can be drawn 
 to help other businesses in the area remain open? 
 
 Furthermore Predictive analysis was performed on the two KPI's:  Rating and the-number-of-reviews. 
