@@ -86,4 +86,4 @@ further improvement of the app functionalities. The object
 detection algorithm Faster RCNN (Regional Convolutional
 Neural Network) is chosen for this task.
 
-![image](https://github.com/KiaKafaei1/Data_Science_Portfolio/blob/master/Predicting_Mackerels/Map_of_Mackerels.PNG)
+![image](https://github.com/KiaKafaei1/Data_Science_Portfolio/blob/master/Food_recognition/food_pic.png)
