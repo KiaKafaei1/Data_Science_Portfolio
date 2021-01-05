@@ -74,6 +74,8 @@ Models and Methods Used:
 
 
 ## Food recognition with Hedia
+This project was made in collaboration with 4 other collegeagues; Aslak Franzen, Hjalte Schmidt, Jiayi Han and Johnny Ye. 
+
 This project is done in collaboration with Hedia, which is a
 company that develops innovative digital solutions for diabetic
 patients. In relation to their work on the APP Hedia
@@ -83,6 +85,5 @@ of food, which could be interesting to incorporate into
 further improvement of the app functionalities. The object
 detection algorithm Faster RCNN (Regional Convolutional
 Neural Network) is chosen for this task.
-The project was done in collaboration with 4 other collegeagues as part of a Deep learning course at DTU.
 
 ![image](https://github.com/KiaKafaei1/Data_Science_Portfolio/blob/master/Predicting_Mackerels/Map_of_Mackerels.PNG)
